@@ -1,12 +1,31 @@
-Excel_Data_Visualization
+# Excel Sales Data Visualization
 
-This project involves analyzing store sales data to uncover actionable insights and trends using Excel. 
+## Overview
+An interactive Excel dashboard built to analyze sales data and uncover key performance insights using pivot tables and visualizations.
 
-Key Highlights:
+## Objective
+- Analyze sales performance across categories
+- Identify top-performing products and regions
+- Build a business-focused Excel dashboard
 
-Identified high-demand product categories and seasonal sales trends
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts and Slicers
 
-Provided insights on monthly sales growth and customer behavior
+## Key Features
+- Dynamic pivot tables for analysis
+- Interactive dashboard visuals
+- Category and region-based insights
+- Sales trend analysis
 
-Designed a clean, interactive dashboard to support inventory and sales decisions
+## Key Insights
+- Top-performing products and categories
+- Sales distribution across regions
+- Monthly and category-wise performance trends
 
+## Files
+- Excel dashboard file
+
+## Author
+Apoorv Singh  
